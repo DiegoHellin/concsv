@@ -3,6 +3,11 @@
 # CONCSV
 Consulta de documents de l'arxiu de la CAIB donat el seu CSV
 
+## Documentació tècnica
+La documentació revisada de la versió 2.1.7 (branca `concsv-2.0`) és a
+[doc/README.md](doc/README.md). L'índex detallat és a
+[doc/tecnica/README.md](doc/tecnica/README.md).
+
 ## Compilar
 Executar la següent comanda:
 
